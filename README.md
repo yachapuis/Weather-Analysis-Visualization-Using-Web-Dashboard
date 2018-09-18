@@ -1,2 +1,2 @@
-# Web-Visualisation-Dashboard-Latitude
+# Web-Visualization-Dashboard-Latitude
 Website in 12-HW-Web
