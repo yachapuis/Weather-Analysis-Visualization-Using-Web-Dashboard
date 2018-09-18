@@ -2,7 +2,7 @@
 
 ## Website
 
-
+URL: https://yachapuis.github.io/Web-Visualization-Dashboard-Latitude/index.htlm
 
 ## Background
 
